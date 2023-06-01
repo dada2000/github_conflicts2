@@ -1,1 +1,2 @@
 BASE
+Changed file2.txt ONLY on branch features2
